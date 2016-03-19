@@ -1,6 +1,6 @@
 {
   "name": "labox-tv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Control and get informations from Labox TV (Numericable)",
   "main": "index.js",
   "dependencies": {
