@@ -1,1 +1,1 @@
-[![Latest Stable Version](http://img.shields.io/npm/v/labox-tv.svg)](https://www.npmjs.com/package/labox-tv) ![Monthly downloads](http://img.shields.io/npm/dm/labox-tv.svg) ![License](http://img.shields.io/badge/license-MIT-brightgreen.svg)
+[![Latest Stable Version](http://img.shields.io/npm/v/labox-tv.svg)](https://www.npmjs.com/package/labox-tv) ![Downloads](https://img.shields.io/npm/dt/labox-tv.svg) ![License](https://img.shields.io/npm/l/labox-tv.svg)
